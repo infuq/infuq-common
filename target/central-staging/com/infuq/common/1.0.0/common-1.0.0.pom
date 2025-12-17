@@ -5,10 +5,9 @@
 
     <groupId>com.infuq</groupId>
     <artifactId>common</artifactId>
-    <version>1.0.1</version>
-    <packaging>jar</packaging>
+    <version>1.0.0</version>
 
-    <name>common</name>
+    <name>open-platform-common</name>
     <description>公共模块</description>
     <url>https://github.com/infuq/infuq-common.git</url>
 
